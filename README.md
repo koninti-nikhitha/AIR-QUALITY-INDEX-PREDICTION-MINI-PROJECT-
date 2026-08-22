@@ -73,3 +73,10 @@ These recommendations help users take appropriate precautions according to air-q
 ## 📌 Conclusion
 
 The **Air Quality Monitoring & AQI Prediction System** combines air-quality monitoring, AQI prediction, forecasting, and health recommendations into a single interactive platform. It can help users understand current and future pollution levels and take suitable precautions to reduce health risks.
+outputs:
+<img width="1280" height="662" alt="Screenshot 2026-08-22 at 10 56 28 PM" src="https://github.com/user-attachments/assets/4a1184aa-f69e-4b35-acee-a532e9687c0a" />
+<img width="1213" height="656" alt="Screenshot 2026-08-22 at 10 56 42 PM" src="https://github.com/user-attachments/assets/13c0e0f0-f1d0-4899-b8a1-dd9bb5fa9414" />
+<img width="913" height="602" alt="Screenshot 2026-08-22 at 10 56 53 PM" src="https://github.com/user-attachments/assets/16e286c2-8760-41f2-9e2f-7b567f0df4ed" />
+<img width="916" height="686" alt="Screenshot 2026-08-22 at 10 57 07 PM" src="https://github.com/user-attachments/assets/9c60afe2-6263-4119-b36f-24f7f9213e39" />
+<img width="934" height="619" alt="Screenshot 2026-08-22 at 10 57 16 PM" src="https://github.com/user-attachments/assets/73fea3ef-8750-47ce-b267-35f2a506f114" />
+
